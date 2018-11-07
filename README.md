@@ -1,0 +1,2 @@
+# SampleTaskListTool
+DataGridViewにタスクを登録するツールの基礎のサンプルです
